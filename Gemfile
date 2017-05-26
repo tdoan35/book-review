@@ -9,7 +9,10 @@ gem 'sprockets-rails', :require => 'sprockets/railtie'
 gem 'bootstrap-sass', '~> 3.3.6'
 gem 'sass-rails', '>= 3.2'
 gem 'paperclip', '~> 5.1'
-# gem 'raty_ratings'
+gem 'ratyrate'
+# gem 'jquery-raty-rails'
+
+
 gem 'simple_form', '~> 3.5'
 gem 'rails', '~> 5.1.1'
 gem 'sqlite3'

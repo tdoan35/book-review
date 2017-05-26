@@ -48,11 +48,27 @@
       </div>
     </nav>
 
-    <p class="notice"><%= notice %></p>
-    <p class="alert"><%= alert %></p>
-
     <div class="container">
       <%= yield %>
     </div>
+
+    <p class="notice"><%= notice %></p>
+    <p class="alert"><%= alert %></p>
+
+    <footer class="footer" style="background-color: white">
+      <div class="container built-with">
+        <p class="text-muted">Built With</p>
+      </div>
+    </footer>
+
   </body>
 </html>
+
+<style>
+.footer {
+  height: 60px;
+}
+.built-with {
+  padding-top: 20px;
+}
+</style>

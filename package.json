@@ -2,6 +2,7 @@
   "name": "book-review",
   "private": true,
   "dependencies": {
-    "jquery": "^3.2.1"
+    "jquery": "^3.2.1",
+    "raty-js": "^2.7.1"
   }
 }
