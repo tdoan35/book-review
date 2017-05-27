@@ -1,3 +1,12 @@
+# Book Review - Ruby on Rails Tutorial
+
+This is a basic book reviewing webapp built using ruby on rails.
+
+* Ruby 2.4.1
+
+* Rails 5.1.1
+
+
 # README
 
 This README would normally document whatever steps are necessary to get the
