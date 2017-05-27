@@ -1,33 +1,19 @@
 # Book Review - Ruby on Rails Tutorial
 
-This is a basic book reviewing webapp built using ruby on rails.
+This is a basic book reviewing web app built using ruby on rails.
 
-* Ruby 2.4.1
+![homepage](https://github.com/tdoan35/book-review/blob/master/showimgs/homepage.png)
 
-* Rails 5.1.1
+![showpage](https://github.com/tdoan35/book-review/blob/master/showimgs/showpage.png)
 
+![bookpage](https://github.com/tdoan35/book-review/blob/master/showimgs/bookpage.png)
 
-# README
+- [x] Added a Bootstrap Carousel on the homepage
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- [x] Added Review Ratings
 
-Things you may want to cover:
+- [x] Implemented reviews
 
-* Ruby version
+- [x] Implemented basic functionality
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://www.youtube.com/watch?v=AMai9EZesXY
