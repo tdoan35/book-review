@@ -8,8 +8,9 @@ This is a basic book reviewing web app built using ruby on rails.
 
 - [x] Added Review Ratings
 
-- [x] Implemented reviews
+- [x] Implemented Reviews
 
-- [x] Implemented basic functionality
+- [x] Implemented Basic Functionality
 
+Followed Book Review Tutorial by Ryan Hemrick on
 https://www.youtube.com/watch?v=AMai9EZesXY
